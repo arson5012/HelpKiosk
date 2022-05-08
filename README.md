@@ -12,7 +12,7 @@
 
  3. 인식된 파란색 링의 중점 찾기   
      > cv2.connectedComponentsWithStats 함수를 사용하여 중점을 찾음\
-     >![HSV](https://1.bp.blogspot.com/-kiX-x_qotU0/YOuRpGKUUaI/AAAAAAAAACc/E5F_1lZNU0MX8pnXHPeVUl4f99RfzbKJwCLcBGAsYHQ/w394-h308/2%25EB%258B%25A8%25EA%25B3%2584%2B%25281%2529.PNG)
+     >![HSV]()
 
  * **드론 이동**
      > 드론 카메라의 화면 중점과 화면 안에서 검출된 파란색 링의 픽셀들 중점을 비교
