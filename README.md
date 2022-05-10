@@ -1,30 +1,30 @@
 # :bus: 버스 예매 키오스크
 
-군산대학교 It정보제어공학과 캡스톤 디자인
+군산대학교 It정보제어공학과 캡스톤 디자인  
 
-
----
+</br>
+  
 
 * #### :family: 팀원
   * 정휘성, 김주하, 김예진, 이소현
    
 
-* #### :pushpin: 통합 개발 환경
+* #### :file_folder: Server
+  * AWS EC2: PHP 서버. 
+  * AWS RDS: DB 서버. 
+  
+* #### 💻 Kiosk
+  * Language & Environment: python
+  * 가게, 메뉴 모델링하여 챗봇 제작
+  * Google cloud dialogflow PHP client library 사용
+  
+* #### 💡 구동 환경
   * 협업도구: Git 
   * 라즈베리파이 4 
   * 터치 스크린
   * NFC리더기 
   * 라즈비안 리눅스 버전
   * IDE: Pycharm, Thonny, Pyqt5 Designer 
-
-* #### :file_folder: Server
-  * AWS EC2: PHP 서버. 
-  * AWS RDS: DB 서버. 
-  
-* #### :speech_balloon: Kiosk
-  * Language & Environment: python
-  * 가게, 메뉴 모델링하여 챗봇 제작
-  * Google cloud dialogflow PHP client library 사용
 
 <hr/>
 
