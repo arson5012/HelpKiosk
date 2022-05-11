@@ -10,17 +10,16 @@
 * #### :family: 팀원
   * 정휘성, 김주하, 김예진, 이소현
    
-
-* #### :file_folder: Server
-  * AWS EC2: PHP 서버. 
-  * AWS RDS: DB 서버. 
-  
 * #### 💻 Kiosk
   * Language & Environment: Python, Java
   * 
   * 
   * 
+* #### :file_folder: Server
+  * AWS EC2: 웹 서버:  
+  * AWS RDS: DB 서버: 
   
+
   
 * #### 💡 구동 환경
   * Raspberry Pi 4(4GB)
