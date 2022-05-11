@@ -64,3 +64,5 @@
  NFC  
  aws ec2  
  aws ads  
+ touch screen
+ 
