@@ -17,13 +17,13 @@
   * Language & Environment: python
   * 가게, 메뉴 모델링하여 챗봇 제작
   * Google cloud dialogflow PHP client library 사용
-  * 
+  * thouch screen: 한성컴퓨터 TFX133T
   
   
 * #### 💡 구동 환경
   * 협업도구: Git 
   * 라즈베리파이 4 
-  * thouch screen: 한성컴퓨터 TFX133T
+  * 터치스크린
   * NFC리더기 
   * 라즈비안 리눅스 버전
   * IDE: Pycharm, Thonny, Pyqt5 Designer 
