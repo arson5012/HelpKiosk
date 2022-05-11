@@ -14,18 +14,18 @@
   * AWS RDS: DB 서버. 
   
 * #### 💻 Kiosk
-  * Language & Environment: python
-  * 가게, 메뉴 모델링하여 챗봇 제작
-  * Google cloud dialogflow PHP client library 사용
-  * thouch screen: 한성컴퓨터 TFX133T
+  * Language & Environment: Python, Java
+  * 
+  * 
+  * 
   
   
 * #### 💡 구동 환경
-  * 협업도구: Git 
-  * 라즈베리파이 4 
-  * 터치스크린
-  * NFC리더기 
-  * 라즈비안 리눅스 버전
+  * Git 
+  * Raspberry Pi 4(4GB)
+  * OS Ver: Stretch 
+  * Touch Screen: KLEINZ KP1401FTM 14Inch Portable Display or 한성컴퓨터 TFX133T
+  * RC522 NFC Reader
   * IDE: Pycharm, Thonny, Pyqt5 Designer 
 
 <hr/>
@@ -60,9 +60,9 @@
      >  함수를 사용한 윈도우 실행
 
  2. 결제
-     >  nfc 리더기
+     >  NFC Tag
  
- 3. DB서버
+ 3. DB 서버
      >  목적지별 가격, 소요시간, 출발날짜 및 시간 저장
 
  4. 
@@ -71,8 +71,8 @@
  <!-------------------------------------------------------------Part 3------------------------------------------------------------------------------------------>
  ## 3. 핵심내용 설명
 
- NFC  
- aws ec2  
- aws ads  
- touch screen
+ NFC Tag 
+ AWS EC2  
+ AWS ADS
+
  
