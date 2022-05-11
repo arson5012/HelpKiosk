@@ -23,12 +23,12 @@
   
   
 * #### 💡 구동 환경
-  * Git 
   * Raspberry Pi 4(4GB)
   * OS Ver: Stretch 
   * Touch Screen: KLEINZ KP1401FTM 14Inch Portable Display or 한성컴퓨터 TFX133T
   * RC522 NFC Reader
   * IDE: Pycharm, Thonny, Pyqt5 Designer 
+  * Git 
 
 <hr/>
 
