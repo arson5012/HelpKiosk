@@ -1,6 +1,7 @@
 # :bus: 버스 예매 키오스크
 
 군산대학교 It정보제어공학과 캡스톤 디자인  
+클라우드 서비스와 NFC태그 결제를 이용한 키오스크
 
 ---
 
@@ -9,25 +10,25 @@
 
 * #### :family: 팀원
   * 정휘성, 김주하, 김예진, 이소현
+  * Git Commit & Push
    
 * #### 💻 Kiosk
   * Language & Environment: Python, Java
-  * 
-  * 
-  * 
-* #### :file_folder: Server
-  * AWS EC2: 웹 서버:  
-  * AWS RDS: DB 서버: 
+  * Tmoney 시외버스 API 
+  * UI: Pyqt5 + CSS   
+  * 개발 팀원:
   
-
+* #### :file_folder: Server
+  * AWS EC2: 웹 서버 개발 팀원:  
+  * AWS RDS: DB 서버 개발 팀원: 
+  * Mysql 개발 팀원:
   
 * #### 💡 구동 환경
   * Raspberry Pi 4(4GB)
   * OS Ver: Stretch 
   * Touch Screen: KLEINZ KP1401FTM 14Inch Portable Display or 한성컴퓨터 TFX133T
   * RC522 NFC Reader
-  * IDE: Pycharm, Thonny, Pyqt5 Designer 
-  * Git 
+  * IDE: Pycharm, Thonny, Pyqt5 Designer  
 
   
 ---
@@ -85,9 +86,15 @@
  ## 3. 핵심내용 설명
 
  NFC Tag   
- AWS EC2  
- AWS ADS  
+ > 10 cm 이내의 근거리에서 무선 데이터를 주고받는 통신 기술로  
+ > 결제 및 도어락 등에 사용하고 있다
  
+ AWS EC2(Elastic Compute Cloud)
+ >
+
+ Mysql
+ >
+
  ---
  
  <!-------------------------------------------------------------Part 4------------------------------------------------------------------------------------------>
