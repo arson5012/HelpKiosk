@@ -64,11 +64,10 @@
    * 대면을 원하지 않은 사용자 또한 사용 가능   
    * 대기시간 절감 효과  
 
- 2. **키오스크 메인**
-   > 
-   <center>
-        <img src="Readme_src/기본 배치도.jpg" alt="예상안">
-   </center> 
+ 2. **키오스크 메인**  
+ ![블록도](./Readme_src/untitled.png)  
+   
+    
 
 
  ---
