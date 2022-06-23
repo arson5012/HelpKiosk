@@ -22,6 +22,7 @@
   * AWS EC2: 웹 서버 개발 팀원:  
   * AWS RDS: DB 서버 개발 팀원: 
   * Mysql 개발 팀원:
+  * JavaScript 개발 팀원:
   
 * #### 💡 구동 환경
   * Raspberry Pi 4(4GB)
